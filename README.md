@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerimucaar" alt="kerimucaar" /></a> </p>
 
-- 🔭 I’m currently working on [Areon Network](areon.network)
-
 - 🌱 I’m currently learning **Everthing handy**
 
 - 💬 Ask me about **JavaScript, TypeScript**
